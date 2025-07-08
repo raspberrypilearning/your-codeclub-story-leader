@@ -48,21 +48,6 @@ Using the local text editor software on your computers or devices (or accessible
 
 --- /task ---
 
---- task ---
-
-Save each file with the creator’s first name: `ava.txt`. 
-
-(You could also combine all student stories into one `codeclub_reflections.txt` file, if it's easier for you.)
-
---- /task ---
-
---- task ---
-
-Collect all the files into one folder, either online or on a USB, ready to upload to NotebookLM.
-![](images/files.png)
-
---- /task ---
-
 
 ---
 
@@ -87,3 +72,23 @@ she said it was brilliant!
 When I walk into our club space: 
 I feel excited and happy, like something fun is about to happen.
 ```
+
+---
+
+
+--- task ---
+
+Save each file with the creator’s first name: `ava.txt`. 
+
+(You could also combine all student stories into one `codeclub_reflections.txt` file, if it's easier for you.)
+
+--- /task ---
+
+--- task ---
+
+Collect all the files into one folder, either online or on a USB, ready to upload to NotebookLM.
+![](images/files.png)
+
+--- /task ---
+
+
