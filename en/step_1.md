@@ -43,5 +43,5 @@ Listen to an example podcast about the fictional code club here:
 
 ### You will need:
 - Internet connection
-- Access to text editor software
+- Access to text editor software (local or online)
 - An email or google credentials (to sign in to NotebookLM)

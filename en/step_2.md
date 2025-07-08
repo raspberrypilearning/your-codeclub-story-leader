@@ -3,16 +3,64 @@ Great AI outputs depend on strong source inputs. Your job is to help your coders
 
 You can pre-select a few of the writing prompts on this page, or just let your creators choose the ones that inspire them the most.
 
-**Each document should have:**
-* Creators’ first names  
-* An ‘About me’ section (no identifying information)  
-* 2 or 3 personal writing answers using prompts below
+--- task ---
 
-**What works best for prompted writing:**
-* Short personal reflections or anecdotes
-* Informal tone (like they’re talking, not writing an essay - tips on text-to-speech tools below)  
-* Specific anecdotes or club moments  
-* Fun, expressive, weird - whatever reflects your club and creators best
+Support your creators to open the text editing software for your operating system:
+
+Choose your device to find out how to open a plain text editor on your computer:
+
+--- collapse ---
+---
+title: I'm using macOS
+---
+
+Click on the magnifying glass in the top-right corner of your screen and type `TextEdit`. Open the app.
+
+Then go to the menu bar at the top and click:
+
+**Format > Make Plain Text**  
+(or press `Shift + Command ⌘ + T`)
+
+You're ready to type!
+--- /collapse ---
+
+--- collapse ---
+---
+title: I'm using Windows
+---
+
+Click the Start menu and search for `Notepad`. Open the app.
+
+You're ready to type!
+--- /collapse ---
+
+--- collapse ---
+---
+title: I'm using Linux
+---
+
+Open the application menu and search for `Leafpad` or `Gedit`.
+
+If your device doesn’t have these apps installed, you can use a website like [https://editpad.org](https://editpad.org) — just remember to download your file as `.txt` when you’re done.
+
+You're ready to type!
+--- /collapse ---
+
+--- collapse ---
+---
+title: I'm using ChromeOS
+---
+
+1. Click the **Launcher** (circle icon in the bottom-left corner)
+2. Type `Text` in the search bar
+3. Open the **Text** app (it’s the default plain text editor)
+
+If your device doesn’t have the Text app installed, you can use a website like [https://editpad.org](https://editpad.org) — just remember to download your file as `.txt` when you’re done.
+
+You’re ready to type!
+--- /collapse ---
+
+--- /task ---
 
 
 ### Writing prompts:
@@ -31,6 +79,18 @@ Choose a few of these prompts for your creators to use:
 
 --- /task ---
 
+--- task ---
+
+Using the chosen text editor software, each creator answers 2-3 of the [project](http://rpf.io/ccpodcast) prompts and types their answers into a `.txt` file.  
+
+**What works best for prompted writing:**
+* Short personal reflections or anecdotes
+* Informal, natural tone (like they’re talking, not writing an essay - tips on text-to-speech tools below)  
+* Specific stories or club moments  
+* Fun, expressive, weird - whatever reflects your club and creators best
+
+--- /task ---
+
 ### Speech-to-text support
 
 You can use free, no sign-up online tools to transcribe creator’s speech, like:
@@ -40,14 +100,18 @@ You can use free, no sign-up online tools to transcribe creator’s speech, like
 
 Paste the output of these tools into your creators’ text files for a more natural and conversational (but definitely louder!) club session.
 
-### Process for student `.txt` files:
+### Processing student `.txt` files:
 
 --- task ---
 
-Using the local text editor software on your computers or devices (or accessible cloud alternative - google docs, teams, office365, [editpad](https://www.editpad.org/)), each creator answers 2-3 of the [project](http://rpf.io/ccpodcast) prompts and types their answers into a `.txt` file.  
+Make sure that your creators have everything they need in their `.txt` files before saving them.
+
+**Each document should have:**
+* Creators’ first names  
+* An ‘About me’ section (no identifying information)  
+* 2 or 3 personal writing answers using prompts
 
 --- /task ---
-
 
 ---
 
