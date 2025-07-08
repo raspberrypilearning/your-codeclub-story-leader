@@ -53,8 +53,8 @@ I sit next to Theo and we try to outdo each other’s projects.
 
 A day I remember:  
 One time I accidentally deleted my project and had to rebuild it from 
-memory. It ended up better than the original. I showed my grandma and she 
-said it was brilliant!
+memory. It ended up better than the original. I showed my grandma and 
+she said it was brilliant!
 
 When I walk into our club space: 
 I feel excited and happy, like something fun is about to happen.
