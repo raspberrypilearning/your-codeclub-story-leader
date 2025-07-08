@@ -150,7 +150,7 @@ Save each file with the creator’s first name: `ava.txt`.
 
 --- task ---
 
-Collect all the files into one folder, either online or on a USB, ready to upload to NotebookLM.
+Collect all the files into one folder, ready to upload to NotebookLM.
 ![](images/files.png)
 
 --- /task ---
