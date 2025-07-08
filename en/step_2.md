@@ -44,7 +44,7 @@ Paste the output of these tools into your creators’ text files for a more natu
 
 --- task ---
 
-Using the local text editor software on your computers or devices (or accessible cloud alternative - google docs, teams, office365, editpad), each creator answers 2-3 of the [project](http://rpf.io/ccpodcast) prompts and types their answers into a `.txt` file.  
+Using the local text editor software on your computers or devices (or accessible cloud alternative - google docs, teams, office365, [editpad](https://www.editpad.org/)), each creator answers 2-3 of the [project](http://rpf.io/ccpodcast) prompts and types their answers into a `.txt` file.  
 
 --- /task ---
 
