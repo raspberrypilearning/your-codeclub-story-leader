@@ -31,10 +31,27 @@ You can use free, no sign-up online tools to transcribe creator’s speech, like
 Paste the output of these tools into your creators’ text files for a more natural and conversational (but definitely louder!) club session.
 
 ### Process for student `.txt` files:
-1. Using the local text editor software on your computers or devices (or accessible cloud alternative - google docs, teams, office365, editpad), each creator answers 2-3 of the [project](http://rpf.io/ccpodcast) prompts and types their answers into a `.txt` file.  
-2. Save each file with the creator’s first name: `ava.txt`  
-   * You could also combine all student stories into one `codeclub_reflections.txt` file, if it's easier for you.  
-3. Collect all the files into one folder, either online or on a USB.
+
+--- task ---
+
+Using the local text editor software on your computers or devices (or accessible cloud alternative - google docs, teams, office365, editpad), each creator answers 2-3 of the [project](http://rpf.io/ccpodcast) prompts and types their answers into a `.txt` file.  
+
+--- /task ---
+
+--- task ---
+
+Save each file with the creator’s first name: `ava.txt`. 
+
+(You could also combine all student stories into one `codeclub_reflections.txt` file, if it's easier for you.)
+
+--- /task ---
+
+--- task ---
+
+Collect all the files into one folder, either online or on a USB, ready to upload to NotebookLM.
+
+--- /task ---
+
 
 ---
 
