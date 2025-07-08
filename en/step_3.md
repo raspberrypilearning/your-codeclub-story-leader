@@ -1,22 +1,53 @@
-## What can you do now?
+## Use NotebookLM
 
-If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
+### Build Your NotebookLM Knowledge Base
 
------- OR ---------
+1. Go to [notebooklm.google.com](http://notebooklm.google.com) (free with email address or google login)  
+2. Create a **new notebook**  
+3. Upload the collected `.txt` files in the popup window
 
-Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
+![](images/add_sources.png)
 
---- print-only --- 
+That’s your **knowledge** **base** created; the collection of writing from your creators. Now the LLM will analyse the writing and create an audio overview to your specifications.
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
+### Customise the Podcast 
 
---- /print-only ---
+Before generating the podcast, click the **black 'Customise'** button:  
+![](images/audio_overview)
 
---- no-print ---
+#### Here's what to do:
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
+[!](images/customise_audio.png)
 
---- /no-print ---
+1. Choose your **Length**: `Shorter`(5-7min), `Default`(10-12min), or `Longer`(15-20min)  
+2. Use the input box to guide the AI in creating the audio.   
+   Paste this prompt:
 
-Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
+   *Create a fun, inspiring podcast introducing our Code Club and telling its story from the perspective of our young creators. Use the first names and stories from the uploaded documents to give it personal touches and details. Keep it friendly and natural. Don’t make anything up: \*only\* use the source material.*
+
+3. Click **Generate**.
+
+NotebookLM will output a two-voice podcast discussion based on your students’ reflections. While you wait, ask the LM some questions about the writing, or click one of the note generation buttons at the bottom right to get some interesting textual insights:  
+![](images/note_buttons.png)  
+---
+
+## **Share your podcast**
+
+Once your podcast episode has been generated in NotebookLM, it’s time to share it!
+
+NotebookLM lets you share your finished notebook (including the podcast) using a public link. This means that anyone with the link can ask questions about your code club to the LLM and get a response based on your creators’ words, or listen to your podcast\! Just click the **Share** button at the top of the notebook and choose **Anyone with the link can view** under **Notebook Access** to make it accessible. You can then copy and send the link to friends, family, your school, or even share it on social media. (Try making it a bit easier to read using a free service like [TinyURL](https://tinyurl.com/).) Send the link to us to have your work shared with the global CodeClub community!
+
+You can also download the podcast audio as a `.wav` file. This makes it easy to upload to your club or school website or YouTube channel, play it in assembly or at home, or keep a copy as a digital souvenir of your Code Club. Tag us on social media if you share your podcast - we’d love to see and share it!
+
+Whether it’s a private keepsake or something you want to show the world, your AI-generated podcast is a celebration of your Code Club!  
+
+---
+
+## **Final Checklist**
+
+- [ ] Student reflections written  
+- [ ] Text files checked (first name only, no identifiers, no rude words)  
+- [ ] Saved as .txt with creator first names in filename, all in the same folder  
+- [ ] Text files uploaded to NotebookLM  
+- [ ] Podcast generated using Customise panel and prompt  
+- [ ] Podcast audio reviewed / shared
