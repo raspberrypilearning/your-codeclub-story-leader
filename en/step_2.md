@@ -7,8 +7,6 @@ You can pre-select a few of the writing prompts on this page, or just let your c
 
 Support your creators to open the text editing software for your operating system:
 
-Choose your device to find out how to open a plain text editor on your computer:
-
 --- collapse ---
 ---
 title: I'm using macOS
