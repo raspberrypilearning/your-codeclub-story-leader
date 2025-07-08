@@ -1,25 +1,35 @@
 ## Support Creator Writing
 Great AI outputs depend on strong source inputs. Your job is to help your coders express themselves naturally and clearly.
 
-**What you need:**
+You can pre-select a few of the writing prompts on this page, or just let your creators choose the ones that inspire them the most.
+
+**Each document should have:**
 * Creators’ first names  
 * An ‘About me’ section (no identifying information)  
 * 2 or 3 personal writing answers using prompts below
 
 **What works best for prompted writing:**
-* Short personal reflections  
+* Short personal reflections or anecdotes
 * Informal tone (like they’re talking, not writing an essay - tips on text-to-speech tools below)  
 * Specific anecdotes or club moments  
 * Fun, expressive, weird - whatever reflects your club and creators best
 
-### Included writing prompts:
-* What’s the coolest thing you’ve ever made in our Code Club?  
-* What makes our Code Club different from any other?  
-* If our Code Club had a motto or catchphrase, what would it be and why?  
-* Who are the characters in our club story? (people, inside jokes, traditions, mascots)  
-* What’s one day in Code Club that stands out? Why?  
-* If you were introducing our Code Club to someone on a podcast, what story would you tell?  
-* How do you feel when you walk into our Code Club space?
+
+### Writing prompts:
+
+--- task ---
+
+Choose a few of these prompts for your creators to use:
+
+- What’s the coolest thing you’ve ever made in our Code Club?  
+- What makes our Code Club different from any other?  
+- If our Code Club had a motto or catchphrase, what would it be and why?  
+- Who are the characters in our club story? (people, inside jokes, traditions, mascots)  
+- What’s one day in Code Club that stands out? Why?  
+- If you were introducing our Code Club to someone on a podcast, what story would you tell?  
+- How do you feel when you walk into our Code Club space?
+
+--- /task ---
 
 ### Speech-to-text support
 
