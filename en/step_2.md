@@ -40,18 +40,18 @@ Paste the output of these tools into your creators’ text files for a more natu
 
 **Example txt file:**
 
-`First name: Ava`
+```
+First name: Ava
 
-`About me:`  
-`I’ve been coming to Scriptville Code Club for about six months. I like building games in Scratch and helping other people when they’re stuck.`
+About me:  
+I’ve been coming to Scriptville Code Club for about six months. I like building games in Scratch and helping other people when they’re stuck.
 
-`Our Code Club:`  
-`We always start with a joke from our leader. There’s usually biscuits. I sit next to Theo and we try to outdo each other’s projects.`
+Our Code Club:  
+We always start with a joke from our leader. There’s usually biscuits. I sit next to Theo and we try to outdo each other’s projects.
 
-`A day I remember:`  
-`One time I accidentally deleted my project and had to rebuild it from memory. It ended up better than the original. I showed my grandma and she said it was brilliant!`
+A day I remember:  
+One time I accidentally deleted my project and had to rebuild it from memory. It ended up better than the original. I showed my grandma and she said it was brilliant!
 
-`When I walk into our club space:`  
-`I feel excited and happy, like something fun is about to happen.` 
-
----
+When I walk into our club space: 
+I feel excited and happy, like something fun is about to happen.
+```
