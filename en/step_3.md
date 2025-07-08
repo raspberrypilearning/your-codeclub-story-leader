@@ -31,7 +31,7 @@ That’s your **knowledge** **base** created; the collection of writing from you
 --- task ---
 
 Before generating the podcast, click the **black 'Customise'** button:  
-![](images/audio_overview)
+![](images/audio_overview.png)
 
 --- /task ---
 
