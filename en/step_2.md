@@ -39,7 +39,7 @@ title: I'm using Linux
 
 Open the application menu and search for `Leafpad` or `Gedit`.
 
-If your device doesn’t have these apps installed, you can use a website like [https://editpad.org](https://editpad.org) — just remember to download your file as `.txt` when you’re done.
+If your device doesn’t have these apps installed, you can use a website like [https://editpad.org](https://editpad.org){:target="_blank"} — just remember to download your file as `.txt` when you’re done.
 
 You're ready to type!
 --- /collapse ---
@@ -53,7 +53,7 @@ title: I'm using ChromeOS
 2. Type `Text` in the search bar
 3. Open the **Text** app (it’s the default plain text editor)
 
-If your device doesn’t have the Text app installed, you can use a website like [https://editpad.org](https://editpad.org) — just remember to download your file as `.txt` when you’re done.
+If your device doesn’t have the Text app installed, you can use a website like [https://editpad.org](https://editpad.org){:target="_blank"} — just remember to download your file as `.txt` when you’re done.
 
 You’re ready to type!
 --- /collapse ---
@@ -79,7 +79,7 @@ Choose a few of these prompts for your creators to use:
 
 --- task ---
 
-Using the chosen text editor software, each creator answers 2-3 of the [project](http://rpf.io/ccpodcast) prompts and types their answers into a `.txt` file.  
+Using the chosen text editor software, each creator answers 2-3 of the [project](http://rpf.io/ccpodcast){:target="_blank"} prompts and types their answers into a `.txt` file.  
 
 **What works best for prompted writing:**
 * Short personal reflections or anecdotes
@@ -93,8 +93,8 @@ Using the chosen text editor software, each creator answers 2-3 of the [project]
 
 You can use free, no sign-up online tools to transcribe creator’s speech, like:
 
-* [Galaxy.ai](https://galaxy.ai/ai-transcription)  
-* [Evernote](https://evernote.com/ai-transcribe)
+* [Galaxy.ai](https://galaxy.ai/ai-transcription){:target="_blank"}  
+* [Evernote](https://evernote.com/ai-transcribe){:target="_blank"}
 
 Paste the output of these tools into your creators’ text files for a more natural and conversational (but definitely louder!) club session.
 

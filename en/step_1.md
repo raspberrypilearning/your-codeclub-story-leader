@@ -4,7 +4,7 @@ This project is part of *This Is Our Code Club* \- a campaign from the Raspberry
 
 Your club members will reflect on what Code Club means to them. You’ll collect their stories, and feed them into NotebookLM as `.txt` files. The LLM will then generate an authentic-sounding podcast using their names and reflections: something that feels polished, personal, and shareable.
 
-Your creators can find the project resources with instructions and writing prompts on the Code Club Project site at [rpf.io/ccpodcast](http://rpf.io/ccpodcast).  
+Your creators can find the project resources with instructions and writing prompts on the Code Club Project site at [rpf.io/ccpodcast](http://rpf.io/ccpodcast){:target="_blank"}.  
 
 ### Data Protection and Safeguarding
 
@@ -17,7 +17,7 @@ Your creators can find the project resources with instructions and writing promp
 
 --- task ---
 
-Interact with a premade example based on the fictional *Scriptville Code Club* at [rpf.io/scriptvillecc](http://rpf.io/scriptvillecc).
+Interact with a premade example based on the fictional *Scriptville Code Club* at [rpf.io/scriptvillecc](http://rpf.io/scriptvillecc){:target="_blank"}.
 
 --- /task ---
 
