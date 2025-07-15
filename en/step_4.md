@@ -1,5 +1,13 @@
 ## **Share your podcast**
 
+<html>
+<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/jU_Z4PWc_Ks?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+</iframe>
+</div><br>
+</html>
+
+
 Once your podcast episode has been generated in NotebookLM, it’s time to share it!
 
 NotebookLM lets you share your finished notebook (including the podcast) using a public link. This means that anyone with the link can ask questions about your code club to the LLM and get a response based on your creators’ words, or listen to your podcast\! 
