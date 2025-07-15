@@ -55,7 +55,7 @@ Copy and send the links to friends, family, your school, or even share it on soc
 
 --- task ---
 
-Send the link to us to have your work shared with the global Code Club community!
+Send the link to us to have your work shared with the global Code Club community, or tag us in your posts!
 
 --- /task ---
 
