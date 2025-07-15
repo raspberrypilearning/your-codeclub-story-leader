@@ -27,9 +27,29 @@ Choose **Anyone with the link can view** under **Notebook Access** to make it ac
 
 --- /task ---
 
+You can also share the Audio Overview alone, without access to the NotebookLM. 
+
 --- task ---
 
-Copy and send the link to friends, family, your school, or even share it on social media. (Try making it a bit easier to read using a free service like [TinyURL](https://tinyurl.com/){:target="_blank"}.)
+Click the **share** button to the right of your podcast title and the like/dislike buttons:
+![](images/podshare.png)
+
+--- /task ---
+
+--- task ---
+
+In the popup that appears, make sure the toggle is set to 'on':
+![](images/sharelink.png)
+
+From here you can **Preview** the audio and what others will see, or copy the link for sharing.
+
+--- /task ---
+
+--- task ---
+
+Copy and send the links to friends, family, your school, or even share it on social media! 
+
+**Tip:** Try making it a bit easier to read and share by using a free URL shortening service like [TinyURL](https://tinyurl.com/){:target="_blank"}.
 
 --- /task ---
 
