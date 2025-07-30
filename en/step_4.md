@@ -112,3 +112,5 @@ It’s pretty hard to do! Take some examples and ask ‘what makes it *weird’*
 When you talk about the ‘temperature’ of an LLM like ChatGPT, what you’re really talking about is how random and strange the words it will use are. Lower temperature means it will use more likely and ‘normal’ words in your output, while high temperature means weirder, less likely words.
 
 --- /task ---
+
+By now, your podcast should be ready to listen to! In the next step, find out how to share your new AI generated media with your creators, your club or whoever you like!
