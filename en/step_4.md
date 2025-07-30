@@ -23,15 +23,13 @@ The higher the “temperature” set for the LLM, the wilder its guesses get. Us
 
 Choose which table to use by rolling the dice:
 
-* 1-2 \= Low (predictable and safe)  
-* 3-4 \= Medium (balanced and interesting)  
-* 5-6 \= High (random and wild)
+1-2 \= Low (predictable and safe)  
+3-4 \= Medium (balanced and interesting)  
+5-6 \= High (random and wild)
 
 This determines which table you should use below when creating your stories.
 
 --- /task ---
-
---- task ---
 
 **Generate a Story**
 
@@ -39,36 +37,14 @@ In a \[**adjective**\] \[**place**\], a \[**person**\] found a \[**adjective**\]
 Curious, they tried to \[**verb**\] it, but that only made things \[**adjective**\].  
 Moments later, something \[**adjective**\] happened when a \[**adjective**\] \[**person**\] appeared and had to \[**verb**\] it immediately\!
 
-Roll the dice for each blank and look up your words on the table below. 
+--- task ---
+Roll the dice for each bracketed word above, and look up your words on the table below. 
 Your total determines the row (1–6) from the word table. Higher rolls \= stranger words.
-
 --- /task ---
 
-##     **Word Table**
+###  Word Table
 
-| Roll a word |  |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Temperature** | **Row** | **Person** | **Thing** | **Place** | **Verb** | **Adjective** |
-| **Low** | **1** | teacher | spoon | classroom | walk | small |
-|  | **2** | baker | backpack | bakery | look | dusty |
-|  | **3** | pilot | map | bus stop | pick up | quiet |
-|  | **4** | explorer | flashlight | forest clearing | open | creaky |
-|  | **5** | zookeeper | puzzle cube | museum basement | carry | mossy |
-|  | **6** | astronaut | toolkit | train carriage | unlock | glowing |
-| **Temperature** | **Row** | **Person** | **Thing** | **Place** | **Verb** | **Adjective** |
-| **Medium** | **1** | detective | telescope | lighthouse | twist | slippery |
-|  | **2** | ninja | laser pen | scrapyard | connect | tangled |
-|  | **3** | hacker | hologram disc | floating island | rewire | shiny |
-|  | **4** | president | voice decoder | deep sea trench | translate | magnetic |
-|  | **5** | spy | memory crystal | mirror maze | activate | haunted |
-|  | **6** | gladiator | invisibility cloak | haunted funfair | reverse | unstable |
-| **Temperature** | **Row** | **Person** | **Thing** | **Place** | **Verb** | **Adjective** |
-| **High** | **1** | monster | cursed doll | underground lab | upload | cursed |
-|  | **2** | superhero | alien egg | lava tunnel | teleport | wobbly |
-|  | **3** | mad scientist | robot heart | sky temple | transform | stinky |
-|  | **4** | dragon | giant's eyeball | asteroid mine | summon | invisible |
-|  | **5** | time pirate | black hole key | dream corridor | duplicate | screaming |
-|  | **6** | shapeshifter | cloud pants | inside an egg | merge | impossible |
+![Table with dice rolls that generate a person, thing, place, verb and adjective, grouped by temperature: low, medium and high.](images/word_table.png)
 
 
 ### **Discussion**
@@ -85,7 +61,7 @@ It’s pretty hard to do! Take some examples and ask ‘what makes it *weird’*
 
 **Ask: Who would like to share a ‘low-temperature story’?** 
 
-	Take examples of a low-temperature story. Note how ‘normal’ the inserted words are. The story probably won’t be too crazy.
+Take examples of a low-temperature story. Note how ‘normal’ the inserted words are. The story probably won’t be too crazy.
 
 --- /task ---
 
@@ -93,7 +69,7 @@ It’s pretty hard to do! Take some examples and ask ‘what makes it *weird’*
 
 **Ask: Who would like to share a ‘medium-temperature story’?** 
 
-	Take examples of a low-temperature story. Note how the inserted words are a bit more interesting. The story probably sounded like it might be interesting if we used it as a prompt for something bigger.
+Take examples of a low-temperature story. Note how the inserted words are a bit more interesting. The story probably sounded like it might be interesting if we used it as a prompt for something bigger.
 
 --- /task ---
 
@@ -101,7 +77,7 @@ It’s pretty hard to do! Take some examples and ask ‘what makes it *weird’*
 
 **Ask: Who would like to share a ‘high-temperature story’?** 
 
-	Take examples of a high-temperature story. Note how ‘weird’ the inserted words are. The story probably won’t make a lot of sense or will be really crazy.
+Take examples of a high-temperature story. Note how ‘weird’ the inserted words are. The story probably won’t make a lot of sense or will be really crazy.
 
 --- /task ---
 
