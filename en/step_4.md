@@ -89,4 +89,5 @@ When you talk about the ‘temperature’ of an LLM like ChatGPT, what you’re 
 
 --- /task ---
 
-By now, your podcast should be ready to listen to! In the next step, find out how to share your new AI generated media with your creators, your club or whoever you like!
+By now, your podcast should be ready to listen to! 
+In the next step, find out how to share your new AI generated media with your creators, your club or whoever you like!
