@@ -31,7 +31,7 @@ This determines which table you should use below when creating your stories.
 
 --- /task ---
 
-**Generate a Story**
+### Generate a Story
 
 <p style="font-size: 1.5em;">
   In a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>place</strong>]</span>, 
@@ -61,7 +61,7 @@ Once your creators have all generated a story or two, move on to the discussion 
 
 --- /task ---
 
-### **Discussion**
+### Discussion
 
 --- task ---
 
