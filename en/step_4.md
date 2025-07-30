@@ -83,7 +83,7 @@ Take examples of a low-temperature story. Note how ‘normal’ the inserted wor
 
 **Ask: Who would like to share a ‘medium-temperature story’?** 
 
-Take examples of a low-temperature story. Note how the inserted words are a bit more interesting. The story probably sounded like it might be interesting if we used it as a prompt for something bigger.
+Take examples of a medium-temperature story. Note how the inserted words are a bit more interesting. The story probably sounded like it might be interesting if we used it as a prompt for something bigger.
 
 --- /task ---
 
