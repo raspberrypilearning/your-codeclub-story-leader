@@ -33,9 +33,17 @@ This determines which table you should use below when creating your stories.
 
 **Generate a Story**
 
-In a \[**adjective**\] \[**place**\], a \[**person**\] found a \[**adjective**\] \[**thing**\].  
-Curious, they tried to \[**verb**\] it, but that only made things \[**adjective**\].  
-Moments later, something \[**adjective**\] happened when a \[**adjective**\] \[**person**\] appeared and had to \[**verb**\] it immediately\!
+<p style="font-size: 1.8em;">
+  In a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>place</strong>]</span>, 
+  a <span style="color: grey;">[<strong>person</strong>]</span> found a 
+  <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>thing</strong>]</span>.<br>
+  Curious, they tried to <span style="color: grey;">[<strong>verb</strong>]</span> it, 
+  but that only made things <span style="color: grey;">[<strong>adjective</strong>]</span>.<br>
+  Moments later, something <span style="color: grey;">[<strong>adjective</strong>]</span> happened 
+  when a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>person</strong>]</span> 
+  appeared and had to <span style="color: grey;">[<strong>verb</strong>]</span> it immediately!
+</p>
+
 
 --- task ---
 Roll the dice for each bracketed word above, and look up your words on the table below. 
