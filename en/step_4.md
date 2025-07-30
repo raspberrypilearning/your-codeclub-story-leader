@@ -23,9 +23,9 @@ The higher the “temperature” set for the LLM, the wilder its guesses get. Us
 
 Choose which table to use by rolling the dice:
 
-1-2 \= Low (predictable and safe)  
-3-4 \= Medium (balanced and interesting)  
-5-6 \= High (random and wild)
+**1-2** \= Low (predictable and safe)  
+**3-4** \= Medium (balanced and interesting)  
+**5-6** \= High (random and wild)
 
 This determines which table you should use below when creating your stories.
 
