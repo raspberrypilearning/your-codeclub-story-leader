@@ -47,6 +47,12 @@ Your total determines the row (1–6) from the word table. Higher rolls \= stran
 ![Table with dice rolls that generate a person, thing, place, verb and adjective, grouped by temperature: low, medium and high.](images/word_table.png)
 
 
+--- task ---
+
+Once your creators have all generated a story or two, move on to the discussion section.
+
+--- /task ---
+
 ### **Discussion**
 
 --- task ---
