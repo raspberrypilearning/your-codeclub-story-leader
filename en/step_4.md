@@ -33,7 +33,7 @@ This determines which table you should use below when creating your stories.
 
 **Generate a Story**
 
-<p style="font-size: 1.8em;">
+<p style="font-size: 1.5em;">
   In a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>place</strong>]</span>, 
   a <span style="color: grey;">[<strong>person</strong>]</span> found a 
   <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>thing</strong>]</span>.<br>
