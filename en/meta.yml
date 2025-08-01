@@ -8,6 +8,12 @@ last_tested: "2025-01-01"
 steps:
   - title: What you will do
   - title: Support creator writing
+    completion:
+      - engaged
   - title: Use NotebookLM
+    completion:
+      - internal
   - title: Unplugged Activity - LLM Storytime
   - title: Share your podcast
+    completion:
+      - external
