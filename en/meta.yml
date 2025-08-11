@@ -1,0 +1,19 @@
+title: This is Our Code Club Podcast - Leader Guide
+hero_image: images/banner.png
+description: Use NotebookLM to turn your creators' writing about your code club into a cool and professional sounding AI-generated podcast!
+version: 1
+listed: false
+copyedit: false
+last_tested: "2025-01-01"
+steps:
+  - title: What you will do
+  - title: Support creator writing
+    completion:
+      - engaged
+  - title: Use NotebookLM
+    completion:
+      - internal
+  - title: Unplugged Activity - LLM Storytime
+  - title: Share your podcast
+    completion:
+      - external
