@@ -1,4 +1,4 @@
-## Support Creator Writing
+## Support creator writing
 Great AI outputs depend on strong source inputs. Your job is to help your coders express themselves naturally and clearly.
 
 You can pre-select a few of the writing prompts on this page, or just let your creators choose the ones that inspire them the most.
