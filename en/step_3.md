@@ -64,7 +64,7 @@ Click **Generate**.
 --- /task ---
 
 
-NotebookLM will output a two-voice podcast discussion based on your students’ reflections. While you wait, ask the LLM some questions about the writing, or click one of the note generation buttons at the bottom right to get some interesting textual insights:  
+NotebookLM will output a two-voice podcast discussion based on your creators’ reflections. While you wait, ask the LLM some questions about the writing, or click one of the note generation buttons at the bottom right to get some interesting textual insights:  
 ![](images/note_buttons.png)  
 
 In the next step, share and download your creators' podcast!
