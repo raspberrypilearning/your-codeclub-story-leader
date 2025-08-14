@@ -1,37 +1,37 @@
 ## Unplugged activity: LLM storytime
 
-While you wait for the LLM to create your new podcast, play a fun Unplugged game with your creators where they use dice to make crazy stories, and learn a little bit about how LLMs create sentences.
+While you wait for the LLM to create your new podcast, play a fun unplugged game with your creators where they use dice to make crazy stories, and learn a little bit about how LLMs create sentences.
 
 The creator handout is [available here as a printable PDF](resources/LLMStorytime_creator.pdf){:target="_blank"}, and a printable PDF for running the unplugged activity with discussion prompts is [available here](resources/LLMStorytime_leader.pdf).
 
 ### **Overview:**
 
-You're training an AI system called an **LLM** that uses your stories to answer questions, and make a podcast with AI voices. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what seems like it should come next in a sentence.
+You're training an AI system called an **LLM** that uses your stories to answer questions, and make a podcast with AI voices. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what should come next in a sentence.
 
-The higher the “temperature” set for the LLM, the wilder its guesses get. Use dice rolls to control the **temperature** of a story and see what your LLM comes up with!
+The higher the 'temperature' set for the LLM, the wilder its guesses get. Use dice rolls to control the **temperature** of a story and see what your LLM comes up with!
 
-### **You’ll Need:**
-- 6 sided dice ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
+### **You’ll need:**
+- 6-sided dice ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
 - Pencils
 - Creator handout ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
 
-### Generate a Story like an LLM
+### Generate a story like an LLM
 
 --- task ---
 
-**Set the Temperature**
+**Set the temperature**
 
 Choose which table to use by rolling the dice:
 
-**1-2** \= Low (predictable and safe)  
-**3-4** \= Medium (balanced and interesting)  
-**5-6** \= High (random and wild)
+**1–2** \= Low (predictable and safe)  
+**3–4** \= Medium (balanced and interesting)  
+**5–6** \= High (random and wild)
 
 This determines which table you should use below when creating your stories.
 
 --- /task ---
 
-### Generate a Story
+### Generate a story
 
 <p style="font-size: 1.4em; text-align: center;">
   In a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>place</strong>]</span>, 
@@ -46,13 +46,13 @@ This determines which table you should use below when creating your stories.
 
 
 --- task ---
-Roll the dice for each bracketed word above, and look up your words on the table below. 
-Your total determines the row (1–6) from the word table. Higher rolls \= stranger words.
+Roll a die for each bracketed word above, and look up your words in the table below. 
+Your result determines the row (1–6) from the word table. Higher rolls \= stranger words.
 --- /task ---
 
-###  Word Table
+###  Word table
 
-![Table with dice rolls that generate a person, thing, place, verb and adjective, grouped by temperature: low, medium and high.](images/word_table.png)
+![Table with dice rolls that generate a person, thing, place, verb, and adjective, grouped by temperature: low, medium, and high](images/word_table.png)
 
 
 --- task ---
@@ -67,42 +67,42 @@ Once your creators have all generated a story or two, move on to the discussion 
 
 **Ask: What’s the weirdest verb (doing word) you can think of?🤔**
 
-It’s pretty hard to do! Take some examples and ask ‘what makes it *weird’*?
+It’s pretty hard to do! Take some examples and ask: "What makes it *weird’*?"
 
 --- /task ---
 
 --- task ---
 
-**Ask: Who would like to share a ‘low-temperature story’?** 
+**Ask: "Who would like to share a low-temperature story?"**
 
-Take examples of a low-temperature story. Note how ‘normal’ the inserted words are. The story probably won’t be too crazy.
-
---- /task ---
-
---- task ---
-
-**Ask: Who would like to share a ‘medium-temperature story’?** 
-
-Take examples of a medium-temperature story. Note how the inserted words are a bit more interesting. The story probably sounded like it might be interesting if we used it as a prompt for something bigger.
+Take examples of low-temperature stories. Note how normal the inserted words are. The stories probably won’t be too crazy.
 
 --- /task ---
 
 --- task ---
 
-**Ask: Who would like to share a ‘high-temperature story’?** 
+**Ask: "Who would like to share a medium-temperature story?"** 
 
-Take examples of a high-temperature story. Note how ‘weird’ the inserted words are. The story probably won’t make a lot of sense or will be really crazy.
+Take examples of medium-temperature stories. Note how the inserted words are a bit more interesting. The story probably sounded like it might be interesting if we used it as a prompt for something bigger.
 
 --- /task ---
 
 --- task ---
 
-**Ask: How does temperature affect the story our pretend LLM generated?** 
+**Ask: Who would like to share a high-temperature story?"** 
 
-When you talk about the ‘temperature’ of an LLM like ChatGPT, what you’re really talking about is how random and strange the words it will use are. Lower temperature means it will use more likely and ‘normal’ words in your output, while high temperature means weirder, less likely words.
+Take examples of high-temperature stories. Note how weird the inserted words are. The stories probably won’t make a lot of sense, and could be really crazy.
 
 --- /task ---
 
-By now, your podcast should be ready to listen to! 
+--- task ---
 
-In the next step, find out how to share your new AI generated media with your creators, your club or whoever you like!
+**Ask: "How does temperature affect the story our pretend LLM generated?"** 
+
+When you talk about the temperature of an LLM like ChatGPT, what you’re really talking about is how random and strange the words it will use are. Lower temperature means it will use more likely and normal words in its output, while higher temperature means weirder, less likely words.
+
+--- /task ---
+
+By now, your creators' AI-generated podcast should be ready to listen to! 
+
+In the next step, find out how to share the podcast with your creators, or whomever you like!
