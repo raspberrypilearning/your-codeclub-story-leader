@@ -13,7 +13,7 @@ Upload your creators' writing to NotebookLM and generate the podcast audio.
 
 --- task ---
 
-Go to [notebooklm.google.com](http://notebooklm.google.com){:target="_blank"} (free with email address or Google login)
+Go to [notebooklm.google.com](http://notebooklm.google.com){:target="_blank"} (free with email address or Google account)
 
 --- /task ---
 
