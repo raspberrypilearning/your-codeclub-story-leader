@@ -8,7 +8,7 @@ The creator handout is [available here as a printable PDF](resources/LLMStorytim
 
 You're training an AI system called an **LLM** that uses your stories to answer questions, and make a podcast with AI voices. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what should come next in a sentence.
 
-The higher the 'temperature' set for the LLM, the wilder its guesses get. Use dice rolls to control the **temperature** of a story and see what your LLM comes up with!
+The higher the 'temperature' set for the LLM, the wilder its guesses get. Your creators will now use dice rolls to control the **temperature** of a story and see what an LLM-like system comes up with!
 
 ### **You’ll need:**
 - 6-sided dice ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
