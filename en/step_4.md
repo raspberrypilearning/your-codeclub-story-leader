@@ -65,7 +65,7 @@ Once your creators have all generated a story or two, move on to the discussion 
 
 **Ask: What’s the weirdest verb (doing word) you can think of?🤔**
 
-It’s pretty hard to do! Take some examples and ask: "What makes it *weird’*?"
+It’s pretty hard to do! Take some examples and ask: "What makes it *weird*?"
 
 --- /task ---
 
