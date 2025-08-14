@@ -14,12 +14,12 @@ In the middle of the project, while you wait for the LLM to generate the podcast
 
 **Your responsibilities:**
 * Use **first names only**  
-* Remove addresses, location data, or personal contact info  
+* Remove addresses, location data, and personal contact info  
 * Review and clean up all `.txt` files before upload
 
 --- task ---
 
-Interact with a premade example based on the fictional *Scriptville Code Club* at [rpf.io/scriptvillecc](http://rpf.io/scriptvillecc){:target="_blank"}.
+Interact with a pre-made example based on the fictional *Scriptville Code Club* at [rpf.io/scriptvillecc](http://rpf.io/scriptvillecc){:target="_blank"}.
 
 --- /task ---
 
