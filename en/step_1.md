@@ -2,7 +2,7 @@ This project is part of 'This is our Code Club' — a campaign from the Raspberr
 
 ## What you will do
 
-Your creators will reflect on what Code Club means to them. You’ll collect their stories, then feed these stories into NotebookLM as `.txt` files. The LLM will then generate an authentic-sounding podcast using your creators' names and reflections: something that feels polished, personal, and shareable.
+Your creators will reflect on what Code Club means to them. You’ll collect their stories, then feed these stories into NotebookLM as `.txt` files. The LLM will then generate an authentic-sounding podcast using your creators' names and reflections — something that feels polished, personal, and shareable.
 
 Your creators can find the project resources with instructions and writing prompts on the Code Club projects site at [rpf.io/ccpodcast](http://rpf.io/ccpodcast){:target="_blank"}. 
 
