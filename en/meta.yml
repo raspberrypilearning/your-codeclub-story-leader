@@ -13,7 +13,7 @@ steps:
   - title: Use NotebookLM
     completion:
       - internal
-  - title: Unplugged activity: LLM storytime
+  - title: Unplugged activity — LLM storytime
   - title: Share your podcast
     completion:
       - external
