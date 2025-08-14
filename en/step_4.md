@@ -10,10 +10,10 @@ You're training an AI system called an **LLM** that uses your stories to answer 
 
 The higher the 'temperature' set for the LLM, the wilder its guesses get. Your creators will now use dice rolls to generate a story like an LLM and control the story's **temperature**!
 
-### **You’ll need:**
+### **Your creators will need:**
 - 6-sided dice ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
 - Pencils
-- Creator handout ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
+- Creator handouts ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
 
 ### Generate a story like an LLM
 
@@ -21,13 +21,11 @@ The higher the 'temperature' set for the LLM, the wilder its guesses get. Your c
 
 **Set the temperature**
 
-Choose which table to use by rolling the dice:
+First, creators roll a die to determine which table to use when creating their stories:
 
 **1–2** \= Low (predictable and safe)  
 **3–4** \= Medium (balanced and interesting)  
 **5–6** \= High (random and wild)
-
-This determines which table you should use below when creating your stories.
 
 --- /task ---
 
@@ -46,8 +44,8 @@ This determines which table you should use below when creating your stories.
 
 
 --- task ---
-Roll a die for each bracketed word above, and look up your words in the table below. 
-Your result determines the row (1–6) from the word table. Higher rolls \= stranger words.
+Next, creators roll a die for each bracketed word above, and look up words in the table below. 
+Their result determines the row (1–6) from the table. Higher rolls \= stranger words.
 --- /task ---
 
 ###  Word table
