@@ -8,9 +8,9 @@
 </html>
 
 
-Once your podcast episode has been generated in NotebookLM, it’s time to share it!
+Once your creators' podcast episode has been generated in NotebookLM, it’s time to share it!
 
-NotebookLM lets you share your finished notebook (including the podcast) using a public link. This means that anyone with the link can ask questions about your code club to the LLM and get a response based on your creators’ words, or listen to your podcast\! 
+NotebookLM lets you share your finished notebook (including the podcast) using a public link. This means that anyone with the link can listen to the podcast, or ask questions about your Code Club to the LLM and get a response based on your creators’ words! 
 
 --- task ---
 
@@ -27,7 +27,7 @@ Choose **Anyone with the link can view** under **Notebook Access** to make it ac
 
 --- /task ---
 
-You can also share the Audio Overview alone, without access to the NotebookLM. 
+You can also share the Audio Overview alone, without access to NotebookLM. 
 
 --- task ---
 
