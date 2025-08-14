@@ -19,7 +19,7 @@ In the middle of the project, while you wait for the LLM to generate the podcast
 
 --- task ---
 
-Interact with a pre-made example based on the fictional *Scriptville Code Club* at [rpf.io/scriptvillecc](http://rpf.io/scriptvillecc){:target="_blank"}.
+Interact with a pre-made example based on the fictional Scriptville Code Club at [rpf.io/scriptvillecc](http://rpf.io/scriptvillecc){:target="_blank"}.
 
 --- /task ---
 
