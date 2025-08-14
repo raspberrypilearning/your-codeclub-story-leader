@@ -1,4 +1,4 @@
-## Unplugged Activity: LLM Storytime
+## Unplugged activity: LLM storytime
 
 While you wait for the LLM to create your new podcast, play a fun Unplugged game with your creators where they use dice to make crazy stories, and learn a little bit about how LLMs create sentences.
 
