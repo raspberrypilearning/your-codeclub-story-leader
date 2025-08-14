@@ -91,7 +91,7 @@ Using the chosen text editor software, each creator answers 2–3 of the [projec
 
 ### Speech-to-text support
 
-You can use free tools online that don't require signing up to transcribe creators' speech, like:
+You can use free online tools that don't require sign-up to transcribe creators' speech, like:
 
 * [Galaxy AI](https://galaxy.ai/ai-transcription){:target="_blank"}  
 * [Evernote](https://evernote.com/ai-transcribe){:target="_blank"}
