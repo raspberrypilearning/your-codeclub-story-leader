@@ -15,7 +15,7 @@ In the middle of the project, while you wait for the LLM to generate the podcast
 **Your responsibilities:**
 * Use **first names only**  
 * Remove addresses, location data, and personal contact info  
-* Review and clean up all `.txt` files before upload
+* Review and clean up all `.txt` files before uploading
 
 --- task ---
 
