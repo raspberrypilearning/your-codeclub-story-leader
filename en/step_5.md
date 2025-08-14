@@ -99,7 +99,7 @@ Saved as .txt with creator first names in filenames, all in the same folder
 --- /task ---
 --- task ---
 
-Podcast generated using 'Customise' panel and prompt  
+Podcast generated using the 'Customise' panel and prompt  
 
 --- /task ---
 --- task ---
