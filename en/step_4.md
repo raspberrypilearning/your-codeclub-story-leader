@@ -6,7 +6,7 @@ The creator handout is [available here as a printable PDF](resources/LLMStorytim
 
 ### **Overview:**
 
-You're training an AI system called an **LLM** that uses your stories to answer questions, and make a podcast with AI voices. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what should come next in a sentence.
+You're training an AI system called an **LLM** to make a podcast with AI voices and answer questions. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what should come next in a sentence.
 
 The higher the 'temperature' set for the LLM, the wilder its guesses get. Your creators will now use dice rolls to generate a story like an LLM and control the story's **temperature**!
 
