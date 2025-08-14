@@ -1,4 +1,4 @@
-This project is part of 'This Is Our Code Club' — a campaign from the Raspberry Pi Foundation to help every Code Club in the UK share its story. The goal is to generate a creative, personal artefact — a podcast episode — using a large language model (LLM) called **NotebookLM**. 
+This project is part of 'This is our Code Club' — a campaign from the Raspberry Pi Foundation to help every Code Club in the UK share its story. The goal is to generate a creative, personal artefact — a podcast episode — using a large language model (LLM) called **NotebookLM**. 
 
 ## What you will do
 
