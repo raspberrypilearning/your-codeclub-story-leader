@@ -21,7 +21,7 @@ The higher the 'temperature' set for the LLM, the wilder its guesses get. Your c
 
 **Set the temperature**
 
-First, creators roll a die. Their result will determine which part of the word table below they'll use to create their stories:
+First, creators roll a die. Their result will determine which part of the word table they'll use to create their stories:
 
 **1–2** \= Low (predictable and safe)  
 **3–4** \= Medium (balanced and interesting)  
