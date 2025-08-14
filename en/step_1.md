@@ -51,4 +51,4 @@ Listen to an example podcast about the fictional Code Club here:
 **For the unplugged activity:**
 - 6-sided dice ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
 - Pencils
-- Creator handout ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
+- Creator handouts ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
