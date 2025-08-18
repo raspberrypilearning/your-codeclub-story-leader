@@ -1,4 +1,4 @@
-## Support Creator Writing
+## Support creator writing
 Great AI outputs depend on strong source inputs. Your job is to help your coders express themselves naturally and clearly.
 
 You can pre-select a few of the writing prompts on this page, or just let your creators choose the ones that inspire them the most.
@@ -67,33 +67,33 @@ You’re ready to type!
 
 Choose a few of these prompts for your creators to use:
 
-- What’s the coolest thing you’ve ever made in our Code Club?  
-- What makes our Code Club different from any other?  
-- If our Code Club had a motto or catchphrase, what would it be and why?  
-- Who are the characters in our club story? (people, inside jokes, traditions, mascots)  
-- What’s one day in Code Club that stands out? Why?  
-- If you were introducing our Code Club to someone on a podcast, what story would you tell?  
-- How do you feel when you walk into our Code Club space?
+- What’s the coolest thing you’ve ever made at your Code Club?  
+- What makes your Code Club different from any other?  
+- If your Code Club had a motto or catchphrase, what would it be and why?  
+- Who are the characters in your Code Club's story? Think about people, inside jokes, traditions, and mascots.  
+- What’s one day at Code Club that stands out? Why?  
+- If you were introducing your Code Club to someone on a podcast, what story would you tell?  
+- How do you feel when you walk into your Code Club's space?
 
 --- /task ---
 
 --- task ---
 
-Using the chosen text editor software, each creator answers 2-3 of the [project](http://rpf.io/ccpodcast){:target="_blank"} prompts and types their answers into a `.txt` file.  
+Using the chosen text editor software, each creator answers 2–3 of the [project](http://rpf.io/ccpodcast){:target="_blank"} prompts and types their answers into a `.txt` file.  
 
 **What works best for prompted writing:**
 * Short personal reflections or anecdotes
-* Informal, natural tone (like they’re talking, not writing an essay - tips on text-to-speech tools below)  
+* Informal, natural tone (like they’re talking, not writing an essay – tips on text-to-speech tools below)  
 * Specific stories or club moments  
-* Fun, expressive, weird - whatever reflects your club and creators best
+* Fun, expressive, weird content — whatever reflects your club and creators best
 
 --- /task ---
 
 ### Speech-to-text support
 
-You can use free, no sign-up online tools to transcribe creator’s speech, like:
+You can use free online tools that don't require sign-up to transcribe creators' speech, like:
 
-* [Galaxy.ai](https://galaxy.ai/ai-transcription){:target="_blank"}  
+* [Galaxy AI](https://galaxy.ai/ai-transcription){:target="_blank"}  
 * [Evernote](https://evernote.com/ai-transcribe){:target="_blank"}
 
 Paste the output of these tools into your creators’ text files for a more natural and conversational (but definitely louder!) club session.
@@ -107,7 +107,7 @@ Make sure that your creators have everything they need in their `.txt` files bef
 **Each document should have:**
 * Creators’ first names  
 * An ‘About me’ section (no identifying information)  
-* 2 or 3 personal writing answers using prompts
+* 2 or 3 personal writing answers using the prompts
 
 --- /task ---
 
