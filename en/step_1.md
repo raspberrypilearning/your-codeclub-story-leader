@@ -52,3 +52,4 @@ Listen to an example podcast about the fictional Code Club here:
 - 6-sided dice ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
 - Pencils
 - Creator handouts ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
+- Leader handout ([available here](resources/%20LLM%20Storytime_leader.pdf){:target="_blank"})
