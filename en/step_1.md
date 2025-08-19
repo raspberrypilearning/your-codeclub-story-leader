@@ -47,7 +47,7 @@ Listen to an example podcast about the fictional Code Club here:
 - Internet connection
 - Access to text editor software (local or online)
 - An email or Google credentials (to sign in to NotebookLM)
-- Club leaders can download and use the [mentor helpsheet](resources/%20LLM%20Storytime_leader.pdf) for tips on getting started.
+- Club leaders can download and use the [mentor helpsheet](resources/Podcast_LeaderPDF-combined.pdf) for tips on getting started.
 
 **For the unplugged activity:**
 - 6-sided dice ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
